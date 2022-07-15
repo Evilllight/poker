@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">poker</string>
+    <string name="action_settings" />
 </resources>
